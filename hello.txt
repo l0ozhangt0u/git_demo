@@ -13,5 +13,5 @@ hello zp,hello git!
 hello zp,hello git!
 hello zp,hello git!
 hello zp,hello git!master test
-hello zp,hello git!
+hello zp,hello git!hot fix test
 nihao!
